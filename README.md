@@ -9,7 +9,7 @@ Social media:
 
 Have a look at my projects below!
 
-                |  
-                |  
-                | 
-                V  
+   	|  
+   	|  
+   	|  
+  	V  
